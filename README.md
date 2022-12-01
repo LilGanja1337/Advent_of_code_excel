@@ -1,3 +1,6 @@
 # AoC_in_Excel
-Completing AoC22 in Excel
-Im not the best, but thought it would be fun to challange my excel skills & excel itself
+Completing the yearly advent of code only in MS Excel online version
+
+## Completed days:
+###### 2021: 1, 2
+###### 2022: 1, 
